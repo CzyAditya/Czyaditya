@@ -1,4 +1,4 @@
-
+ 
 
 
 <h2 align="left">Hi There👋! My name is Aditya and I'm a Student from Parul University.</h2>
@@ -28,17 +28,13 @@ LINK BELOWS 😊
 ###
 
 <div align="left">
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
+
 
   <a href="https://instagram.com/czy_aditya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 
-  <a href="YOUR_TWITCH_LINK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch logo" />
-  </a>
+
 
   <a href="https://discord.com/users/993222117820735589" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
