@@ -44,7 +44,7 @@ LINK BELOWS 😊
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-mahaski-731704395?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
